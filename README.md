@@ -1,1 +1,1 @@
-# Shoper.
+# Shoper
